@@ -1,0 +1,8 @@
+I have cteated githubcccccc
+$ git status
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[A[A[B[B
+
+[A[A[A[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[C[C[C[D[D[D[D[D[D[D[D[D[Dre
+[i[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[Al[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[A[A[D[D[D[D[D[D[D[D[D[D[D[D[Dls
+[A[C[Cpwd
